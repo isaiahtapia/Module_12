@@ -24,12 +24,7 @@ WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 ```
 
-## Mock-Up
-The following shows the web application's appearance and functionality:
-
 ## License
 
 This project is licensed under the MIT License
 
-## Issues
-insomnia was giving me issues and so i took what we did from lecture along with xpert learning to build out the proper code.
